@@ -1,8 +1,15 @@
-.bo{
-	border:2px double black;
-	text-align:center;
-}
-table{
-	width: 100%; height: 100%; border:2px double
-}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  .black-cell {
+    background-color: black;
+    color: white;
+  }
 /* Your CSS Code here. */
