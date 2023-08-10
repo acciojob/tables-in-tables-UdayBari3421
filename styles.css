@@ -1,2 +1,8 @@
-
+.bo{
+	border:2px double black;
+	text-align:center;
+}
+table{
+	width: 100%; height: 100%; border:2px double
+}
 /* Your CSS Code here. */
