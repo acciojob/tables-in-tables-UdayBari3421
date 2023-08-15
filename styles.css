@@ -1,13 +1,9 @@
-table,
-th,
-td {
-	border: 1px solid black;
-	border-collapse: collapse;
-	padding: 5px;
+table ,td,th{
+	border:2px solid black;
+	text-align:center;
+	align:center;
 }
-
-.black-cell {
-	background-color: black;
-	color: white;
+table{
+	width:100%;
+	margin:30px 0px 30px 0px;
 }
-/* Your CSS Code here. */
